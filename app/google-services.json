@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65673148931",
+    "project_id": "dayary-login",
+    "storage_bucket": "dayary-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65673148931:android:035a206848d04cd786ec36",
+        "android_client_info": {
+          "package_name": "com.dayary.dayary_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65673148931-5btfuv8qdvo7usbcise152pihqidig2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dayary.dayary_login",
+            "certificate_hash": "c1755c253579e562a2affe97afb10c34f600ef3c"
+          }
+        },
+        {
+          "client_id": "65673148931-4dh9q1vuit0083sd5ltfnab9gigtgqck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByzeORmeYOyWAph9pbwVy0XJ4zXJMFNGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65673148931-4dh9q1vuit0083sd5ltfnab9gigtgqck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
